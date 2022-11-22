@@ -251,6 +251,8 @@ archs_where_cxx_eh_does_not_work_well = [
   'arm',
   'mips',
   'mips64',
+  'ppc32',
+  'ppc64',
   'tilegx',
   's390x',
   'loongarch64',
